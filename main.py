@@ -4,6 +4,6 @@
     Descritpion: Programme qui compte le nombre de mot dans une chaine de caractère
 """
 
-sentence = "Je suis riche mon petit canard"
+sentence = "je suis riche mon petit canard yooooupi"
 sentence = sentence.split()
 print(len(sentence))
